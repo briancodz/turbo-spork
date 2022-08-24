@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-signup{
+    margin-top: 1em;
+    text-align: center;
+}
+
+.form-text{
+    font-weight: bolder;
+}
+.form-group{
+    margin: 1em;
+    border-radius: 20px;
+    
+    
+    width: 100px;
+    line-height: 2em;
+    justify-items: flex-start;
+
+}
+
+.form-control{
+    border-radius: 10px;
+    height: 3em;
+    width: 300px;
+}
+
+.reg{
+    cursor: pointer;
+    background-color: gold;
+    width: 200px;
+}
+.box{
+  
+}
